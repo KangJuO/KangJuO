@@ -14,7 +14,7 @@
   <li> Communication skills</li>
 </div>
 
-<h3>🛠Stack🛠</h3>
+<h2>🛠Stack🛠</h2>
 <div>
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NodeJS-yellow?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 </div>
 
-<h3>🏇Activities🏇</h3>
+<h2>🏇Activities🏇</h2>
 <div><img src="https://github-readme-stats.vercel.app/api?username=KangJuO&theme=dracula&show_icons=true"></img></div>
 
 <!--
