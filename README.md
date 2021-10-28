@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NodeJS-yellow?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white"/></a>&nbsp
