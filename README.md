@@ -8,7 +8,6 @@
 <div>
   <li> Node.js and how it operates</li>
   <li> Design Restful API</li>
-  <li> Handling database and user information secure</li>
   <li> CI/CD</li>
   <li> Communication skills</li>
 </div>
