@@ -1,29 +1,12 @@
-<h2> About Me 👋 </h3>
+## About Me 👋 
 
-<h3> Full Stack Engineer</h4>
+### Full Stack Engineer
 
-<h3> Interested </h3>
+### Interested
+- NodeJS, NestJS, Flutter
+- Docker, k8s
 
-<div>
-  <li> Node.js, Flutter</li>
-  <li> CI/CD</li>
-</div>
-
-
-<h2>🏇Activities🏇</h2>
-<div><img src="https://github-readme-stats.vercel.app/api?username=KangJuO&theme=dracula&show_icons=true"></img></div>
-
-<!--
-**KangJuO/KangJuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current
+- 2021.12 ~ NOW - 조은앱 | 대중교통물류서비스
+- [어딜-지하철택배](https://apps.apple.com/kr/app/%EC%96%B4%EB%94%9C-%EC%A7%80%ED%95%98%EC%B2%A0%ED%83%9D%EB%B0%B0/id1640653286)
+- [어딜-파트너](https://play.google.com/store/apps/details?id=com.joyenapp.urbandelivery_stage&hl=ko-KR)
